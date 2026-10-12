@@ -1,9 +1,9 @@
-streamlit
-pandas
-numpy
 Pillow
 scikit-learn
 joblib
 mysql-connector-python
 requests
-tensorflow
+tensorflow==2.16.2
+streamlit
+pandas
+python-dotenv
