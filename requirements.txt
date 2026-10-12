@@ -1,9 +1,11 @@
-Pillow
-scikit-learn
-joblib
-mysql-connector-python
-requests
-tensorflow==2.16.2
+
 streamlit
+tensorflow==2.16.2
+numpy<2.0
 pandas
+scikit-learn
+Pillow
+mysql-connector-python
+joblib
+requests
 python-dotenv
